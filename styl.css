@@ -4,11 +4,14 @@ header{
     justify-content: center;
 }
 .synek{
-border: solid black 4px;
-margin: 40px 60px;
-padding: 10px;
-border-radius: 20%;
-
+    border: solid black 4px;
+    margin: 40px 60px;
+    padding: 10px;
+    border-radius: 20%;
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 18px; 
+    letter-spacing: 1.1px; 
+    text-decoration: underline;
 }
 .synek:hover{
     color: blue;
