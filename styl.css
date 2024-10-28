@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.synek{
+border: solid black 4px;
+margin: 40px 60px;
+padding: 10px;
+border-radius: 20%;
+
+}
+.synek:hover{
+    color: blue;
+    border-color: rgb(4, 0, 255);
+    border-radius: 20%;
+}
